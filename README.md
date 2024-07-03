@@ -1,4 +1,4 @@
-# Hello, I'm [Nafyad Hailu] 👋
+# Hello, I'm Nafyad Hailu👋
 
 I'm a software developer with a strong proficiency in the MERN stack (MongoDB, Express.js, React, and Node.js).
 
@@ -15,5 +15,5 @@ I'm a software developer with a strong proficiency in the MERN stack (MongoDB, E
 ## 📫 Get in Touch
 
 - LinkedIn: https://www.linkedin.com/in/nafyadfront430/
-- Twitter: [Your Twitter Profile](link-to-twitter)
-- Email: [nafyadhailu-ug.aau.edu.et](mailto:nafyadhailu-ug.aau.edu.et)
+- Twitter:https://x.com/Nafy430
+- Email:nafyadhailu-ug.aau.edu.et
