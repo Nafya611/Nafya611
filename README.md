@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello, I'm [Nafyad Hailu] 👋
 
-<!--
-**Nafya611/Nafya611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with a strong proficiency in the MERN stack (MongoDB, Express.js, React, and Node.js).
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: JavaScript, HTML, CSS,c++
+- **Front-end**: React
+- **Back-end**: Node.js, Express.js,Firebase
+- **Databases**: MongoDB, SQL
+- **Version Control**: Git, GitHub
+- **Other Tools**: Vercel,ubuntu
+
+
+## 📫 Get in Touch
+
+- LinkedIn: https://www.linkedin.com/in/nafyadfront430/
+- Twitter: [Your Twitter Profile](link-to-twitter)
+- Email: [nafyadhailu-ug.aau.edu.et](mailto:nafyadhailu-ug.aau.edu.et)
