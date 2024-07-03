@@ -16,4 +16,4 @@ I'm a software developer with a strong proficiency in the MERN stack (MongoDB, E
 
 - LinkedIn: https://www.linkedin.com/in/nafyadfront430/
 - Twitter:https://x.com/Nafy430
-- Email:nafyadhailu-ug.aau.edu.et
+- Email:nafyadhailu-ug.aau.edu.et(mailto:nafyadhailu-ug.aau.edu.et)
