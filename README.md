@@ -1,15 +1,15 @@
 # Hello, I'm Nafyad Hailu👋
 
-I'm a software developer with a strong proficiency in the MERN stack (MongoDB, Express.js, React, and Node.js).
+I'm a Backend Developer
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: JavaScript, HTML, CSS,c++
-- **Front-end**: React
-- **Back-end**: Node.js, Express.js,Firebase
+- **Languages**: JavaScript, HTML, CSS,c++,python
+- **Front-end**: React,Bootstrap
+- **Back-end**: django
 - **Databases**: MongoDB, SQL
 - **Version Control**: Git, GitHub
-- **Other Tools**: Vercel,ubuntu
+- **Other Tools**: Vercel,postman,docker
 
 
 ## 📫 Get in Touch
