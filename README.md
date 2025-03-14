@@ -7,7 +7,7 @@ I'm a Backend Developer
 - **Languages**: JavaScript, HTML, CSS,c++,python
 - **Front-end**: React,Bootstrap
 - **Back-end**: django
-- **Databases**: MongoDB, SQL
+- **Databases**: MongoDB, PostgreSQL
 - **Version Control**: Git, GitHub
 - **Other Tools**: Vercel,postman,docker
 
@@ -17,3 +17,14 @@ I'm a Backend Developer
 - LinkedIn: https://www.linkedin.com/in/nafyadfront430/
 - Twitter:https://x.com/Nafy430
 - Email:nafyadhailu-ug.aau.edu.et(mailto:nafyadhailu-ug.aau.edu.et)
+
+##Github stats
+![Nafyad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nafya611&show_icons=true&theme=radical)
+
+
+##Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nafyad&layout=compact&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Nafyad&theme=dark&hide_border=true)
+
+
