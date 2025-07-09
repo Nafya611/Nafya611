@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Nafyad Hailu
 
-🎯 **I'm a Backend Developer** passionate about building efficient, scalable, and secure systems.
+🎯 **I'm a WEB Developer** passionate about building efficient, scalable, and secure websites.
 
 ---
 
