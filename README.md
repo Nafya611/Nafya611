@@ -28,4 +28,4 @@
 
 - [LinkedIn](https://www.linkedin.com/in/nafyad430/)
 - [Twitter](https://x.com/Nafy430)
-- 📧 Email: [nafyadhailu-ug.aau.edu.et](mailto:nafyadhailu-ug.aau.edu.et)
+- 📧 Email: [nafyadhailu-ug.aau.edu.et](mailto:nafyadhailu99@gmail.com)
