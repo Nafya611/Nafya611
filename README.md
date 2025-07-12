@@ -20,6 +20,7 @@
 ![Nafyad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nafya611&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nafya611&layout=compact&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Nafya611&theme=dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nafya611&theme=github-compact)
 
 
 ---
