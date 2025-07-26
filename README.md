@@ -11,7 +11,7 @@
 - **Backend**: Django, Node.js
 - **Databases**: PostgreSQL, MongoDB
 - **Version Control**: Git, GitHub
-- **Tools & Platforms**: Docker, Postman, Vercel
+- **Tools & Platforms**: Docker, Postman, Render
 
 ---
 
